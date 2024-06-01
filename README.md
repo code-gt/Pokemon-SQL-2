@@ -1,4 +1,4 @@
-# TP Pokemon
+# TP Pokemon (Suite)
 
 Voici la suite du TP Pokemon-SQL, vous avez maintenant une base de donnée prête et vous savez désormais manipuler les données de cette BDD grâce aux commandes SQL.
 
